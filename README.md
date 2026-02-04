@@ -36,12 +36,9 @@ My core specialties are data analytics, machine learning, business intelligence,
 
 Please feel free to explore my repositories and reach out!
 
+<p align="left"> <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ndifreke Ekanem" height="30" width="40" /></a> <a href="mailto:your.email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="your.email@example.com" height="30" width="40" /></a> </p>
 
 [LinkedIn] • [Twitter/X] • [Email]
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NdifrekeAnalytics&show_icons=true&theme=dark)
-
-![Your Stats](https://github-readme-stats.vercel.app/api?username=NdifrekeAnalytics&show_icons=true&theme=radical)
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
