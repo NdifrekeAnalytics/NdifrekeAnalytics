@@ -1,7 +1,9 @@
 ### 🙋‍♂ Hi, I'm Ndifreke Ekanem
-
-###🌟 Data Scientist | Data Analyst | Business Intelligence Professional
 ----
+
+🌟 Data Scientist | Data Analyst | Business Intelligence Professional
+
+🌟 Data Scientist | Data Analyst | Business Intelligence Professional
 
 <!--
 **NdifrekeAnalytics/NdifrekeAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
