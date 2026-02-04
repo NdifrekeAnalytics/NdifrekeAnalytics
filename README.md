@@ -1,12 +1,9 @@
 ### 🙋‍♂ Hi, I'm Ndifreke Ekanem
-----
+
 
 🌟 Data Scientist | Data Analyst | Business Intelligence Professional
+Hi, Welcome to my portfolio where I showcase my projects, achievements, and passion for data science! 
 
-🌟 Data Scientist | Data Analyst | Business Intelligence Professional
-
-<!--
-**NdifrekeAnalytics/NdifrekeAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
