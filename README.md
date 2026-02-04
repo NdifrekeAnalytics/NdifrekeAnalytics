@@ -1,6 +1,6 @@
 ### 🙋‍♂ Hi, I'm Ndifreke Ekanem
 
-🌟 Data Scientist | Data Analyst | Business Intelligence Professional
+###🌟 Data Scientist | Data Analyst | Business Intelligence Professional
 ----
 
 <!--
