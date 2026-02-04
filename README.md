@@ -1,5 +1,5 @@
 ### 🙋‍♂ **Hi, I'm Ndifreke Ekanem**
----
+
 
 
 🔭 **Data Scientist | Data Analyst | AI & ML Practitioner | Business Intelligence Professional**
@@ -10,6 +10,7 @@ I am a Data Scientist passionate about turning data into actionable insights. I 
 
 My core specialties are data analytics, machine learning, business intelligence, and AI-powered automated workflow development, with expertise in leveraging advanced analytics and predictive modeling to gain valuable insights and drive decisions.
 
+---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
