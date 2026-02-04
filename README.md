@@ -1,7 +1,9 @@
 ### 🙋‍♂ Hi, I'm Ndifreke Ekanem
+---
 
 
 🌟 Data Scientist | Data Analyst | Business Intelligence Professional
+
 Hi, Welcome to my portfolio where I showcase my projects, achievements, and passion for data science! 
 
 
