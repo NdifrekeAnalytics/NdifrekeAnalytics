@@ -23,41 +23,87 @@ My core specialties are data analytics, machine learning, business intelligence,
 
 
 ## 🔧 **Skills & Tools**
-- Python • Pandas • Numpy • PySpark • Scikit-learn • XGBoost • LightGBM
-- SQL • Power BI • Tableau • Excel • Seaborn • Matplotlib
-- NLP • Time Series • Anomaly Detection
+Python • Pandas • Numpy • PySpark • Scikit-learn<br> 
+XGBoost • LightGBM • SQL • Power BI • Tableau<br> 
+Excel • Seaborn • Matplotlib • NLP • Time Series • Anomaly Detection
+
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)<br>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)<br>
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## 📫🌍 **Let's Connect, Please**
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:sync872000@gmail.com)    [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NdifrekeAnalytics/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ndifreke-ekanem-b479a027/)   [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ndifreke)
+
+
+---
+- ⚡ **Fun Fact:** I'm an avid chess player
+
+---
+## 🚀 Featured Data Science Projects
+
+### 🛡️ **Network Intrusion Detection System**
+*Developed a robust Machine Learning–driven cybersecurity threat classification model to identify and categorize network security threats on large-scale network traffic.*
+
+* **Problem:** Manual monitoring of network traffic is inefficient and error-prone.
+* **Solution:** Developed a scalable classification model to automatically detect and categorize network attacks.
+* **Key Achievement:** Leveraged **PySpark** to process high-volume traffic data and accurately classify threats such as **'Probe'**, **'DoS'**, and **'R2L'** attacks.
+* **Tools & Tech:** `PySpark`, `Logistic Regression`, `Big Data Analytics`
+* **Impact:** Enabled faster and more reliable identification of malicious network activity, improving security response time.
+
+<img style="width:60%;" alt="image" src="https://github.com/user-attachments/assets/aa7d936f-be96-4e38-bb0a-6c136e6d3faf" />
 
 
 ---
 
-## 📫🌍 **Let's Connect**
-- 💼 LinkedIn: *https://www.linkedin.com/in/ndifreke-ekanem-b479a027/*
-- 📧 Email: *sync872000@gmail.com*
+### 🚗 Motor Insurance Claim Cost Prediction
+*Predictive modeling for insurance reserving and financial risk management.* 
 
-Please feel free to explore my repositories and reach out!
-
-<p align="left"> <a href="https://www.linkedin.com/in/ndifreke-ekanem-b479a027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ndifreke Ekanem" height="30" width="40" /></a> <a href="mailto:sync872000@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="sync872000@gmail.com" height="30" width="40" /></a> </p>
-
-[LinkedIn] • [Twitter/X] • [Email]
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+* **Problem:** Inaccurate claim cost estimation leads to weak reserving and increased financial risk.
+* **Solution:** Developed a regression pipeline to predict Ultimate Claim Amounts from policy and driver attributes.
+* **Key Achievement:** Engineered features such as `Driver_Age_Risk` and optimized models with **`Optuna`** and **`GridSearchCV`**, reducing MAE.
+* **Tools & Tech Stack:** `Scikit-Learn`, `Pandas`, `Gradient Boosting Regressor`, `XGBoost Regressor`, `Random Forest`, `Optuna`, `Flask`
+* **Impact:** Improved reserve accuracy and enabled data-driven underwriting and pricing decisions.
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NdifrekeAnalytics&show_icons=true&theme=dark" alt="Ndifreke Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NdifrekeAnalytics&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+<img style="width:60%;" alt="image" src="https://github.com/user-attachments/assets/4c716c0a-dd56-47fa-b629-f5331ca081c8" />
 
 
-- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ☀️ Residential Solar Feasibility Analysis
+*Data-driven renewable energy planning for optimized residential power solutions.*
+
+* **Problem:** Uncertainty around cost, storage efficiency, and ROI for residential solar adoption.
+* **Solution:** Conducted a combined technical and financial feasibility analysis for solar installations.
+* **Key Achievement:** Compared Lead-Acid vs. Lithium battery systems across cost, lifespan, efficiency, and ROI within the Nigerian energy context.
+* **Tools & Tech:** `Exploratory Data Analysis`, `Financial Modeling`, `Query`, `Power BI`
+* **Impact:** Delivered a clear, data-backed roadmap for cost-effective renewable energy investment.
+
+<img style="width:40%;" alt="image" src="https://github.com/user-attachments/assets/c8ddd7b2-d650-4249-9dd8-c4dd44396362" />
+
+
+
