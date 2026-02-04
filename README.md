@@ -44,6 +44,13 @@ Please feel free to explore my repositories and reach out!
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NdifrekeAnalytics&show_icons=true&theme=dark" alt="Ndifreke Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NdifrekeAnalytics&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+
 - 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
