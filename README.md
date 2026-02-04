@@ -32,11 +32,11 @@ My core specialties are data analytics, machine learning, business intelligence,
 
 ## 📫🌍 **Let's Connect**
 - 💼 LinkedIn: *https://www.linkedin.com/in/ndifreke-ekanem-b479a027/*
-- 📧 Email: *sync872000@gmail.com
+- 📧 Email: *sync872000@gmail.com*
 
 Please feel free to explore my repositories and reach out!
 
-<p align="left"> <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ndifreke Ekanem" height="30" width="40" /></a> <a href="mailto:your.email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="your.email@example.com" height="30" width="40" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/ndifreke-ekanem-b479a027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ndifreke Ekanem" height="30" width="40" /></a> <a href="mailto:sync872000@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="sync872000@gmail.com" height="30" width="40" /></a> </p>
 
 [LinkedIn] • [Twitter/X] • [Email]
 
