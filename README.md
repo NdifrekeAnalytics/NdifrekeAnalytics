@@ -65,6 +65,20 @@ Excel • Seaborn • Matplotlib • NLP • Time Series • Anomaly Detection
 ---
 ## 🚀 Featured Data Science Projects
 
+### 🌱 **AI-Powered Cotton Seed Germination Quality Prediction**
+*Developed a next-generation precision intelligence platform that autonomously predicts cotton seed germination quality, classifies vigor class, and delivers agronomic insights — from raw field data, in seconds.*
+
+* **Problem:** Misclassification of cottonseed lot at commercial scale carries significant financial exposure. Manual testing is slow, error-prone, expensive, and limited in its ability to explain *why* a lot scored as it did — reducing its value as a decision-support tool. 
+* **Solution:** Developed and deployed regression models that predict WG and CT scores with ≥ 0.98 R² on held-out test data using agronomic, environmental, phenological, and physical seed quality signals simultaneously; and at the same time, **classify** seed lots into the three-tier vigor system with high precision and recall on Excellent Vigor lots.
+* **Key Achievement:** Engineerd features that capture agronomic reality without introducing data leakage. Deployed a production-grade, accessible web application usable by non-technical stakeholders.
+* **Tools & Tech:** `Python`, `XGBoost`, `GradientBoosting`, `Optuna`, `Streamlit`, `Big Data Analytics`
+* **Impact:** Enabled faster and more reliable end-to-end machine learning platform that brings precision, automation, and interpretability to cotton seed quality prediction across the entire value chain.
+
+<img style="width:60%;" alt="image" src="https://github.com/NdifrekeAnalytics/AI-Powered-Cotton-Seed-Quality-Prediction-Model/blob/main/assets/app_screenshot.png" />
+
+
+---
+
 ### 🛡️ **Network Intrusion Detection System**
 *Developed a robust Machine Learning–driven cybersecurity threat classification model to identify and categorize network security threats on large-scale network traffic.*
 
